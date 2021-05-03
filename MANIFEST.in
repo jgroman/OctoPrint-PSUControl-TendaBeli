@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_psucontrol_tendabeli/templates *
+recursive-include octoprint_psucontrol_tendabeli/translations *
+recursive-include octoprint_psucontrol_tendabeli/static *
