@@ -2,6 +2,8 @@
 
 Adds Tenda Beli SP3 support to OctoPrint-PSUControl as a sub-plugin.
 
+This plugin is based on [OctoPrint PSU Control - Tasmota](https://github.com/kantlivelong/OctoPrint-PSUControl-Tasmota) plugin code by [Shawn Bruce](https://github.com/kantlivelong).
+
 ## Setup
 
 - Install via the bundled [Plugin Manager](https://docs.octoprint.org/en/master/bundledplugins/pluginmanager.html)
