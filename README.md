@@ -16,7 +16,9 @@ or manually using this URL: https://github.com/jgroman/OctoPrint-PSUControl-Tend
 
 ## Notes
 
-- Plugin was tested with plug HW version EU V1.0, SW version V1.1.0.13(115)_SP3_EU
+- Plugin was tested with plugs:
+  - HW version EU V1.0, SW version V1.1.0.13(115)_SP3_EU
+  - HW version AU V1.0, SW version V1.1.0.13(115)_SP3_AU
 
 - Tenda Beli SP3 smart plug can be configured using official Tenda Beli app.
 
